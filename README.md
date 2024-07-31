@@ -26,4 +26,10 @@ $10,000. The minimum transacton size is set at 1 share per trade
 • Maximum Drawdown
 
 # Submission
-Upload the project to GitHub and share the link to
+Upload the project to GitHub and share the link to hr@banksidecap.com
+
+# Instructons
+• Please use Python for the entre project, you can either code in Python fle or Jupyter
+Notebook
+• Please refrain from using any backtestng framework (i.e., Backtestng.py, Backtrader and etc)
+• Please adhere to clean code and best sofware practce
