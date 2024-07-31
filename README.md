@@ -1,3 +1,6 @@
+# Development
+pip install -e .
+
 # mag-7-backtesting
 
 # Background
