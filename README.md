@@ -39,6 +39,6 @@ Notebook
 
 # Room for Improvement
 
-Naive Strategy was used for Trading: Use all money when possible, and sell all when sell signal
+Naive Strategy was used for Trading: Use all money when buying, and sell all when sell signal
 Trading Strategy currently only looks at One stock at a time
 
