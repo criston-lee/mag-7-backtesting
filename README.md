@@ -20,7 +20,7 @@ specifed strategy
 $10,000. The minimum transacton size is set at 1 share per trade
 4. Compute the following performance metrics to assess the strategy's efectveness:
 
-# cPerformance Metrics
+# Performance Metrics
 • Total Return
 • Annual Return
 • Annual Volatlity
