@@ -1,0 +1,4 @@
+tablulate == 0.9.0
+yfinance == 0.2.41
+pandas == 2.2.1
+matplotlib == 3.9.1
