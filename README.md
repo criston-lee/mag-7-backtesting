@@ -36,3 +36,9 @@ Upload the project to GitHub and share the link to hr@banksidecap.com
 Notebook
 • Please refrain from using any backtestng framework (i.e., Backtestng.py, Backtrader and etc)
 • Please adhere to clean code and best sofware practce
+
+# Room for Improvement
+
+Naive Strategy was used for Trading: Use all money when possible, and sell all when sell signal
+Trading Strategy currently only looks at One stock at a time
+
